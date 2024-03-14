@@ -1,0 +1,20 @@
+
+
+@media screen and  (max-width:767px) {
+    .head{
+        display: none;
+    }
+}
+
+.bg{
+    background-image: url(images/architect.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
